@@ -2,8 +2,7 @@
 
 # Created by: Kaitlyn Ip
 # Created on: Sep 2022
-# This program calculates the area and perimeter of a rectangle
-#    with length and width inputted from the user
+# This program lets users guess the number
 
 import constants
 
