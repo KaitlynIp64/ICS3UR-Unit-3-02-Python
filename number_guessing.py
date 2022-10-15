@@ -8,7 +8,7 @@ import constants
 
 
 def main():
-    # this function calculates the area and perimeter of a rectangle
+    # this function defines the two possibilities
 
     # input
     user_guess = int(input("Pick a number between 1-6: "))
